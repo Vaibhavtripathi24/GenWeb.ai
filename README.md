@@ -4,11 +4,6 @@
 
 ---
 
-## 🌐 Live Demo  
-👉 https://genweb-ai-88nz.onrender.com/
-
----
-
 ## 📌 Overview  
 GenWeb.ai is a full-stack AI-powered web application that allows users to generate complete websites from simple text prompts. It automates website creation and enables users to build, edit, and preview websites without writing code.
 
